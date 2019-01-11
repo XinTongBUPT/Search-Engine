@@ -1,3 +1,14 @@
+# SearchEngine
+
+[![Join the chat at https://gitter.im/jiangxincode/SearchEngine](https://badges.gitter.im/jiangxincode/SearchEngine.svg)](https://gitter.im/jiangxincode/SearchEngine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/jiangxincode/SearchEngine.svg?branch=master)](https://travis-ci.org/jiangxincode/SearchEngine)
+[![Build status](https://ci.appveyor.com/api/projects/status/m5r92mlo6874n877/branch/master?svg=true)](https://ci.appveyor.com/project/jiangxincode/searchengine/branch/master)
+[![Coverage Status](https://coveralls.io/repos/github/jiangxincode/SearchEngine/badge.svg?branch=master)](https://coveralls.io/github/jiangxincode/SearchEngine?branch=master)
+[![Code Climate](https://codeclimate.com/github/jiangxincode/SearchEngine/badges/gpa.svg)](https://codeclimate.com/github/jiangxincode/SearchEngine)
+[![Issue Count](https://codeclimate.com/github/jiangxincode/SearchEngine/badges/issue_count.svg)](https://codeclimate.com/github/jiangxincode/SearchEngine)
+[![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+
+
 ## Description
 
 SearchEngine is a simple search engine written in Java, JSP, CSS, JS and HTML. This project is just for learning the basic concepts of search engine, thus avoid use it in your real work condition.
